@@ -15,7 +15,3 @@ A first-person horror escape game built in Unity. Explore a locked facility, sol
 Unity · C#
 
 Open `Echoes-of-the-Forgotten/` in Unity Hub and run the start scene.
-
-## Team
-
-[@yash-korgaonkar](https://github.com/yash-korgaonkar) · [@Vib1ing](https://github.com/Vib1ing) · [@Justino-o](https://github.com/Justino-o)
